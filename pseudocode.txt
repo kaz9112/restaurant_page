@@ -1,0 +1,64 @@
+*html:
+
+home page:
+    header nav
+
+    main (flexbox):
+
+
+    js added :
+        title = restaurant name
+        hours open close
+        location
+
+menu page:
+    header nav
+
+    main (flexbox):
+
+
+    js added :
+        title = Menu
+        flex box(drinks):
+            title = drinks
+            -drink 1
+            -drink 2
+        flex box(foods):
+            title = foods
+            -food 1
+            -food 2
+        flex box(dessert):
+            title = desser
+            -dessert1
+            -dessert2
+
+menu page:
+    header nav
+
+    main (flexbox):
+
+
+    js added :
+        title = contact
+
+        waitress
+        manager
+        customer service
+
+
+
+
+*js script:
+
+main page module run
+
+    load page as variable
+        get the main and get them as variable for parents
+
+    create modules and saved them into a variable:
+        home page
+        menu page
+        contact
+
+    load and delete pressed button page module and remove the previous page module
+        
