@@ -62,3 +62,8 @@ main page module run
 
     load and delete pressed button page module and remove the previous page module
         
+
+1. html done
+2. create css completed if not using js
+
+3. create js load it
