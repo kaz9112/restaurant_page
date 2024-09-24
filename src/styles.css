@@ -6,9 +6,38 @@ body {
     margin: 0;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    min-width: 600px;
+    align-items: center;
+    min-height: 800px;
+    justify-content: space-around;
+
+}
+
+main > :nth-child(1) {
+    border: 3px solid rgb(245, 80, 58);
+    padding: 10px 50px;
+}
+
+main > * {
+    border: 2px solid rgb(245, 80, 58);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 20px;
+}
+
 footer {
     margin-top: auto;
     width: 100vw;
     text-align: center;
     background-color: aliceblue;
+}
+
+footer > p {
+    margin: 0 auto;
+    font-size: 0.8rem;
 }

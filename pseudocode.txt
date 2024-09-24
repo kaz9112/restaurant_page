@@ -46,8 +46,6 @@ menu page:
         customer service
 
 
-
-
 *js script:
 
 main page module run
@@ -57,8 +55,18 @@ main page module run
 
     create modules and saved them into a variable:
         home page
+            clear the main sectioin
+            create functionfor the child and return it using dict
+
         menu page
+            clear the main sectioin
+            create functionfor the child and return it using dict
+           
         contact
+            clear the main section
+            create functionfor the child and return it using dict
+
+
 
     load and delete pressed button page module and remove the previous page module
         
@@ -67,3 +75,31 @@ main page module run
 2. create css completed if not using js
 
 3. create js load it
+    
+    home:
+        <div>
+            <h3>
+                welcome
+            </h3>
+            <p>asdasd</p>
+            <p>asdawdgfaswd</p>
+            <p>sdfasdf</p>
+        </div>
+           <div>
+            <h3>
+                hoursopen clo=se
+            </h3>
+            <p>asdasd</p>
+            <p>asdawdgfaswd</p>
+            <p>sdfasdf</p>
+        </div>
+                </div>
+           <div>
+            <h3>
+                location
+            </h3>
+            <p>asdasd</p>
+            <p>asdawdgfaswd</p>
+            <p>sdfasdf</p>
+        </div>
+
